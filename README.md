@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaikha11
-- 👀 I’m interested in SE & CYBER security 
+- 👀 I’m interested in IS & CYBER security 
 - 🌱 I’m currently learning PYTHON &. JAVA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
