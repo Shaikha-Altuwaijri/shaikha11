@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @shaikha11
-- 👀 I’m interested in IS & CYBER security 
-- 🌱 I’m currently learning PYTHON &. JAVA 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello...
+
 
 <!---
 shaikha11/shaikha11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
